@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "dd.pbt";
+ 1 "\u574f\u5883_word.pbt";
 @end;
-DefaultTarget "dd.pbt";
-DefaultRemoteTarget "dd.pbt";
+DefaultTarget "\u574f\u5883_word.pbt";
+DefaultRemoteTarget "\u574f\u5883_word.pbt";
